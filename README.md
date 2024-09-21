@@ -1,4 +1,4 @@
-gt911_ts
+gt911_ts --- FOR LINUX KERNEL 4.1  !!!
 ============
 GT911 Touch Screen Driver For Rockchip
 
